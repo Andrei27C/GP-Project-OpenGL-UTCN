@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+    "$basetexture" "skybox/Sky_NightTime01RT"
+    "$nofog" 1
+    "$ignorez" 1
+}
